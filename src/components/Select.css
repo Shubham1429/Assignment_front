@@ -1,0 +1,21 @@
+.select__Container {
+  margin: 20px 25px;
+  display: flex;
+  justify-content: space-between;
+  padding: auto;
+  align-items: center;
+}
+
+select {
+  margin-left: 5%;
+  width: 88%;
+  padding: 15px;
+  background-color: #f3f9f1;
+  border: none;
+  color: gray;
+}
+
+label {
+  width: 200px;
+  font-size: 20px;
+}
